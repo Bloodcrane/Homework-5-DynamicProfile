@@ -16,7 +16,7 @@ const createCard = () => {
     description.id = "description";
 
     const anchor = document.createElement("a");
-    anchor.href = "#";
+    anchor.href = "https://www.radiohead.com/library/#ir";
     anchor.textContent = "Go to profile";
     anchor.id = "hrefAnchor";
 
