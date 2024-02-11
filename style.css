@@ -20,7 +20,7 @@ body {
     margin-top: 25px;
     text-align: center;
     box-shadow: 8px 8px 3px rgba(0, 0, 0, 0.212);
-    background-image: url('./Images/noise-dark.png'), linear-gradient(to top, #352e2e, #2e2727);
+    background-image: url('./images/noise-dark.png'), linear-gradient(to top, #352e2e, #2e2727);
 }
 
 #profileImg {
@@ -49,12 +49,12 @@ body {
     text-shadow: 2px 2px 5px black;
     box-shadow: 8px 8px 3px rgb(44, 34, 34);
     color: #fff;
-    background-image: url('./Images/noise-dark.png'), linear-gradient(to top, #8f6767, #775a5a);
+    background-image: url('./images/noise-dark.png'), linear-gradient(to top, #8f6767, #775a5a);
     transition: background-color 0.3s, border-color 0.3s, transform 0.3s, box-shadow 0.3s, color 0.3s, background-image 0.3s;
 }
 
 #description{
-    background-image: url('./Images/noise-dark.png'), linear-gradient(to top, #5f5050, #4b4040);
+    background-image: url('./images/noise-dark.png'), linear-gradient(to top, #5f5050, #4b4040);
     text-align: center;
     padding-left: 10px;
     padding-right: 10px;
@@ -70,7 +70,7 @@ body {
 #card {
     max-width: 400px;
     padding: 20px;
-    background-image: url('./Images/noise-light.png'), linear-gradient(to top, #3b3535, #776767);
+    background-image: url('./images/noise-light.png'), linear-gradient(to top, #3b3535, #776767);
     border-radius: 15px;
     margin-top: 25px;
     text-align: center;
@@ -81,7 +81,7 @@ body {
 #hrefAnchor:hover {
     border-color: #6b4e4e; 
     box-shadow: 5px 5px 3px rgb(44, 34, 34);
-    background-image: url('./Images/noise-light.png'), linear-gradient(to top, #8b6a6a, #634949);
+    background-image: url('./images/noise-light.png'), linear-gradient(to top, #8b6a6a, #634949);
 }
 
 #hrefAnchor:active {
